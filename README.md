@@ -9,3 +9,5 @@ The following skills in my...
 - Dash board
 - Statistic : Hypothesis testing
 - Machine Learning Model
+
+For more  information pleas contact me at [Email](www.google.com)
